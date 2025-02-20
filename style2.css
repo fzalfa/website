@@ -1,0 +1,167 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: rgba(224, 91, 91, 0.83);
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 86px;
+  top: 72px;
+  width: 271px;
+  height: 68px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1123px;
+  top: 73px;
+  width: 181px;
+  height: 68px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 862px;
+  top: 73px;
+  width: 220px;
+  height: 67px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 571px;
+  top: 72px;
+  width: 250px;
+  height: 68px;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  row-gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 1749px;
+  position: absolute;
+  left: -586px;
+  top: 478px;
+}
+.frame-1 {
+  flex-shrink: 0;
+  width: 750px;
+  height: 59px;
+  position: relative;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1285px;
+  position: absolute;
+  left: 77px;
+  top: 242px;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practival-business-challneges-preparing-them-for-careers-in-technology-and-consulting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 1343px;
+  height: 201px;
+}
+.semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 53px;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 44px;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 39px;
+}
